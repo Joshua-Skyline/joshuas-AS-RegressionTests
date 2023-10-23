@@ -1,0 +1,108 @@
+﻿{
+	"jobs": [
+		{
+			"jobID": 0,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696975500001,
+			"nextRunUTC": 1697061900000,
+			"lastRunDurationSeconds": 2104.09,
+			"lastRunRowCount": 1453
+		},
+		{
+			"jobID": 1,
+			"state": "Failed",
+			"error": "The request GenIf NextPageRequest took too long.",
+			"lastRunUTC": 1696975500001,
+			"nextRunUTC": 1697061900000,
+			"lastRunDurationSeconds": 2099.7,
+			"lastRunRowCount": 300
+		},
+		{
+
+			"jobID": 2,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800000,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 2150.04,
+			"lastRunRowCount": 665
+		},
+		{
+			"jobID": 3,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800000,
+			"nextRunUTC": 1697865200000,
+			"lastRunDurationSeconds": 17980.71,
+			"lastRunRowCount": 730
+		},
+		{
+			"jobID": 4,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800000,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 15995.2,
+			"lastRunRowCount": 345
+		},
+		{
+			"jobID": 5,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800000,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 13568.25,
+			"lastRunRowCount": 596
+		},
+		{
+			"jobID": 6,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800001,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 11502.17,
+			"lastRunRowCount": 288
+		},
+		{
+			"jobID": 7,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800001,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 9439.27,
+			"lastRunRowCount": 270
+		},
+		{
+			"jobID": 8,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800001,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 6972.78,
+			"lastRunRowCount": 342
+		},
+		{
+			"jobID": 9,
+			"state": "Finished",
+			"error": "",
+			"lastRunUTC": 1696978800001,
+			"nextRunUTC": 1697065200000,
+			"lastRunDurationSeconds": 4623.13,
+			"lastRunRowCount": 572
+		},
+		{
+			"jobID": 10,
+			"state": "Failed",
+			"error": "A unknown exception occurred in CoreGateway: Error trapped: Skyline.DataMiner.Net.SLConfiguration.SLValue`1[System.Collections.Generic.List`1[Skyline.DataMiner.Analytics.GenericInterface.SingleOption]] could not be converted to System.Collections.Generic.List`1[Skyline.DataMiner.Analytics.GenericInterface.ColumnID].\r\nParameter name: value",
+			"lastRunUTC": 1696996800000,
+			"nextRunUTC": 1697083200000,
+			"lastRunDurationSeconds": 0.65,
+			"lastRunRowCount": 0
+		}
+	],
+	"fetching": {
+		"active": 0,
+		"queued": 0
+	}
+}

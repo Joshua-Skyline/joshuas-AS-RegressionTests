@@ -59,13 +59,13 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Moq">
-      <Version>4.18.4</Version>
+      <Version>4.20.69</Version>
     </PackageReference>
     <PackageReference Include="MSTest.TestAdapter">
-      <Version>3.0.2</Version>
+      <Version>3.1.1</Version>
     </PackageReference>
     <PackageReference Include="MSTest.TestFramework">
-      <Version>3.0.2</Version>
+      <Version>3.1.1</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>13.0.3</Version>
@@ -73,14 +73,17 @@
     <PackageReference Include="SharpZipLib">
       <Version>1.4.2</Version>
     </PackageReference>
+    <PackageReference Include="Skyline.DataMiner.Core.DataMinerSystem.Common">
+      <Version>1.1.1.2</Version>
+    </PackageReference>
     <PackageReference Include="Skyline.DataMiner.Dev.Automation">
-      <Version>10.2.0.11</Version>
+      <Version>10.3.10.1</Version>
     </PackageReference>
     <PackageReference Include="Skyline.DataMiner.Dev.Common">
-      <Version>10.2.0.11</Version>
+      <Version>10.3.10.1</Version>
     </PackageReference>
     <PackageReference Include="Skyline.DataMiner.Utils.QAPortalAPI">
-      <Version>1.0.9</Version>
+      <Version>1.0.12</Version>
     </PackageReference>
     <PackageReference Include="StyleCop.Analyzers">
       <Version>1.1.118</Version>
@@ -89,9 +92,9 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RT_Customer_MyFirstRegressionTest_1\RT_Customer_MyFirstRegressionTest_1.csproj">
+    <ProjectReference Include="..\RT_Customer_MyFirstRegressionTest_1\TLRN_DataAggregator_RegressionTest.csproj">
       <Project>{1F328CB2-2466-4CAD-BF2C-CBFD7C69BA12}</Project>
-      <Name>RT_Customer_MyFirstRegressionTest_1</Name>
+      <Name>TLRN_DataAggregator_RegressionTest</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

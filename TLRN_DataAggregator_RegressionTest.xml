@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
-	<Name>RT_Customer_MyFirstRegressionTest</Name>
-	<Description>Example Regression Test to validate something.</Description>
+	<Name>TLRN_DataAggregator_RegressionTest</Name>
+	<Description>Regression Test to validate Data Aggregator for TLRN.</Description>
 	<Type>Automation</Type>
 	<Author>SKYLINE2\JarnoLE</Author>
 	<CheckSets>FALSE</CheckSets>
@@ -18,7 +18,7 @@
 
 	<Script>
 		<Exe id="1" type="csharp">
-			<Value><![CDATA[[Project:RT_Customer_MyFirstRegressionTest_1]]]></Value>
+			<Value><![CDATA[[Project:TLRN_DataAggregator_RegressionTest]]]></Value>
 			<!--<Param type="debug">true</Param>-->
 			<Message></Message>
 		</Exe>

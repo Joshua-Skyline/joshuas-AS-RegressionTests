@@ -1,5 +1,5 @@
 {
-	"Path": "qaportal@skyline.be",
+	"Path": "http://qaportal.skyline.local/api/public/results/addresult",
 	"ClientId": "myClientId",
 	"ApiKey": "myApiKey"
 }

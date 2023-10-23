@@ -24,20 +24,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analy
 		Internal\Code Analysis\qaction-release.ruleset = Internal\Code Analysis\qaction-release.ruleset
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RT_Customer_MyFirstRegressionTest", "RT_Customer_MyFirstRegressionTest", "{77137461-8422-4CE2-AF0D-03F9439732EF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TLRN_DataAggregator_RegressionTest", "TLRN_DataAggregator_RegressionTest", "{77137461-8422-4CE2-AF0D-03F9439732EF}"
 	ProjectSection(SolutionItems) = preProject
-		RT_Customer_MyFirstRegressionTest.xml = RT_Customer_MyFirstRegressionTest.xml
+		TLRN_DataAggregator_RegressionTest.xml = TLRN_DataAggregator_RegressionTest.xml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{D77DABF5-3BBF-4E07-9A0D-D85CE2277E4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT_Customer_MyFirstRegressionTest_1", "RT_Customer_MyFirstRegressionTest_1\RT_Customer_MyFirstRegressionTest_1.csproj", "{1F328CB2-2466-4CAD-BF2C-CBFD7C69BA12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLRN_DataAggregator_RegressionTest", "RT_Customer_MyFirstRegressionTest_1\TLRN_DataAggregator_RegressionTest.csproj", "{1F328CB2-2466-4CAD-BF2C-CBFD7C69BA12}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Library", "Library\Library.shproj", "{0D197FF4-225F-41A0-B0C2-02E031C066DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{9A61DD14-E718-4FDE-AAE3-EA61B082AF1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RT_Customer_MyFirstRegressionTest_1Tests", "RT_Customer_MyFirstRegressionTest_1Tests\RT_Customer_MyFirstRegressionTest_1Tests.csproj", "{2703C9BC-3365-4274-A04D-7F74D89AE599}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLRN_DataAggregator_RegressionTest", "RT_Customer_MyFirstRegressionTest_1Tests\TLRN_DataAggregator_RegressionTest.csproj", "{2703C9BC-3365-4274-A04D-7F74D89AE599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

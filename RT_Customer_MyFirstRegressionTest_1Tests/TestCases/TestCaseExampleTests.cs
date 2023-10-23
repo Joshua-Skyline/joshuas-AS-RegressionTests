@@ -1,4 +1,4 @@
-﻿namespace RT_Customer_MyFirstRegressionTest_1.Tests
+﻿namespace TLRN_DataAggregator_RegressionTest_1.Tests
 {
 	using System;
 	using System.Collections.Generic;

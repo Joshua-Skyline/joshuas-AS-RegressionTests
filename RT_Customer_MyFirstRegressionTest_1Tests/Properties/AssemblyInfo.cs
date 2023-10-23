@@ -2,11 +2,11 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("RT_Customer_MyFirstRegressionTest_1Tests")]
+[assembly: AssemblyTitle("TLRN_DataAggregator_RegressionTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RT_Customer_MyFirstRegressionTest_1Tests")]
+[assembly: AssemblyProduct("TLRN_DataAggregator_RegressionTest")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

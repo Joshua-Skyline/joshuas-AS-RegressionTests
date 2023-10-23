@@ -51,16 +51,16 @@ DATE		VERSION		AUTHOR			COMMENTS
 
 using System;
 using Library.Tests;
-using RT_Customer_MyFirstRegressionTest_1;
 using Skyline.DataMiner.Automation;
+using TLRN_DataAggregator_RegressionTest;
 
 /// <summary>
 /// DataMiner Script Class.
 /// </summary>
 public class Script
 {
-	private const string TestName = "RT_Customer_MyFirstRegressionTest";
-	private const string TestDescription = "Regression Test to validate something.";
+	private const string TestName = "TLRN_DataAggregator_RegressionTest";
+	private const string TestDescription = "Regression Test to validate Data Aggregator for TLRN.";
 
 	/// <summary>
 	/// The Script entry point.
@@ -72,8 +72,7 @@ public class Script
 		{
 			Test myTest = new Test(TestName, TestDescription);
 			myTest.AddTestCase(
-				new TestCaseExample("Test 1"),
-				new TestCaseExample("Test 2"));
+				new TestJobsSuccessful("Test Data Aggregator Jobs Run"));
 
 			myTest.Execute(engine);
 			myTest.PublishResults(engine);
